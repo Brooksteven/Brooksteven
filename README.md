@@ -5,4 +5,4 @@
 </h1>
 
 <p align="center">
-    <img src="./assets/download.jpeg" alt="developer gif" width=45px /> About Me:</p>
+    <img src="./assets/download.jpeg" alt="developer gif" width=75px /><br>    About Me:</p>
